@@ -1,0 +1,9 @@
+auth:
+  cookie:
+    hmac-key: "eab53a06189bac1f3f0e8e134afd86406fd5d9830d311f985ed613a4b165380c1e9bf3fa8fd77fd4199ee8cecf3503411d4689973bef29e6983a4e36e524644e"
+server:
+  servlet:
+    session:
+      cookie:
+        http-only: true
+        secure: true
